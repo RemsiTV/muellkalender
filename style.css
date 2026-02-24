@@ -1,0 +1,187 @@
+body {
+  background: #111827;            /* tiefes Dunkelblau */
+  color: #e5e7eb;                 /* helles Grau */
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  margin: 0;
+  padding: 30px;
+}
+
+h1 {
+  font-size: 28px;
+  margin-bottom: 5px;
+  color: #f9fafb;
+}
+
+#currentDate {
+  font-size: 14px;
+  color: #9ca3af;
+  margin-bottom: 25px;
+}
+
+.pickup {
+  background: #1f2937;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  transition: 0.2s ease;
+}
+
+.pickup:hover {
+  background: #273449;
+}
+
+.next-pickup {
+  border-left: 4px solid #10b981; /* schönes Grün */
+  background: #182a24;
+}
+
+body {
+  background: #111827;
+  color: #e5e7eb;
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 30px;
+}
+
+body {
+  background: #111827;
+  color: #e5e7eb;
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  min-height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 60px;
+}
+
+.app {
+  width: 100%;
+  max-width: 600px;
+  text-align: center;
+}
+
+input {
+  padding: 10px 14px;
+  border-radius: 8px;
+  border: none;
+  width: 70%;
+  margin-bottom: 12px;
+  background: #1f2937;
+  color: white;
+}
+
+button {
+  padding: 10px 16px;
+  border-radius: 8px;
+  border: none;
+  background: #10b981;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+button:hover {
+  background: #0ea56f;
+}
+
+#output {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.pickup {
+  background: #1f2937;
+  padding: 14px 16px;
+  border-radius: 10px;
+  margin-bottom: 12px;
+}
+
+.pickup-date {
+  font-weight: 600;
+  color: #f9fafb;
+  margin-bottom: 10px;
+}
+
+.pickup-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.badge {
+  background: #111827;
+  border: 1px solid #374151;
+  color: #e5e7eb;
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 13px;
+}
+
+.next-pickup {
+  border-left: 4px solid #10b981;
+  background: #182a24;
+}
+
+/* Basis: output besser lesbar */
+#output {
+  margin-top: 18px;
+  text-align: left;
+}
+
+/* Inputs/Buttons allgemein nicer (auch Desktop) */
+#streetInput, #checkBtn {
+  width: 100%;
+  max-width: 520px;
+  box-sizing: border-box;
+}
+
+/* Mobile Optimierung */
+@media (max-width: 600px) {
+  body {
+    padding: 16px;
+    padding-top: 24px;
+  }
+
+  .app {
+    max-width: 100%;
+    text-align: left;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+
+  #currentDate {
+    font-size: 13px;
+    margin-bottom: 16px;
+  }
+
+  #streetInput {
+    font-size: 16px;       /* verhindert iOS Zoom */
+    padding: 14px 14px;
+    border-radius: 12px;
+  }
+
+  #checkBtn {
+    font-size: 16px;
+    padding: 14px 14px;
+    border-radius: 12px;
+    margin-top: 10px;
+  }
+
+  .pickup {
+    padding: 14px;
+    border-radius: 14px;
+  }
+
+  .pickup-date {
+    font-size: 14px;
+  }
+
+  .badge {
+    font-size: 13px;
+    padding: 7px 10px;
+  }
+}
