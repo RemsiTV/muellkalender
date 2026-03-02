@@ -1,1748 +1,1757 @@
-{
-  "Abteiweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Beguinenstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Conringstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Friedrichstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Albert -Einstein -Weg 1 1  2 4 Beireisstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Cranachweg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "G. -Hauptmann -Weg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Albert -Schweitzer -Weg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Bergweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "D. -Bonhoeffer -Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "G. -Steinbre cher -Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 1
-  },
-  "Albrechtstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Berliner  Platz": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Dammgarten": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "G. -Stresemann -Weg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Alersstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Bindegasse": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Danziger Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Galgenbreite": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Allerweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Birkenweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Dessauer Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Gartenstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Alter Schwanefelder Weg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Bismarckstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Diamantenweg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Genthiner Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Am Bötschenberg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Blankenburger Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Dieselstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Georg - Calixt -Platz": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Am Buchenhang": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Bötticherstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Dr. -H.-Jasp er-Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 1
-  },
-  "Georgienstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Am Burgberge": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Brahmsweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Drei Linden": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Gerbergasse": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Am  Finkenherd": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Brandenburger Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Dresdener Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Gleiwitzer Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Am  Heuerskamp": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Braunschweiger Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Dunkles Tor": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Glockbergstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Am  Ludgerihof": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 1
-  },
-  "Braunschweiger Tor": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Dürerplatz": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Glogauer Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Am  Steinmühlenkamp": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Breslauer Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Edelhöfe": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Glück -Auf-Weg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Am  Wallgraben": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Brocken blick": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Elbestr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Goethestr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Am Warneckenberg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Bruchweg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Elzweg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Görlitzer Platz": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Amtsgasse": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Brunnenweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Emil -v.  Behring -Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Gr. Kirchhof": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "An den Lübbensteinen": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Büddenste dter Weg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Emmerstedter Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Greifswalder Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "An der Bleiche": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Bülowstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Emmi - Lademann -Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Gröpern": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "An der Gartenfreiheit": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Bunzlauer Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Erfurter Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Großer Katthagen": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Ann abergstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Calvörder Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Ernst -Koch -Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 1
-  },
-  "Grubenweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Bäckerweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Carlstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Ernst -Reuter -Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Grünberger Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Badergasse": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Carl -von-Ossietzky -Weg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Eupener Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Grünewaldweg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Bahnhof": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 1
-  },
-  "Caseliusweg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Fechtboden": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "H. -Stöber -Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 1
-  },
-  "Bahnhofstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 1
-  },
-  "Ch. - v.-Veltheim -Weg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Feldstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Haldenslebener Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Batteriewall": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Chardstr. 1 1  2 2 Feuerbachweg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Haldenweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Bau erstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Chemnitzer Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Fichtestr. 1 1 1  1 Hallesche Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Beek": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Collegienplatz": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Fiuggiring": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Harbker Weg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Beendorfer Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Collegienstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Freiherr -vom -Stein -Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Harsleber Torstraße": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Beethovenstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Conringplatz": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Friedrich -Ebert -Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 1
-  },
-  "Hauerweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Havelstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Kirchstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Lutherweg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Paulskamp": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 1
-  },
-  "Hegelstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Kleiner  Katthagen": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Magdeburger Berg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Pestalozzistr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Heinr. -v.-Kleist -Weg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Kleiner  Wall": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Magdeburger Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Pilgergasse": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Heinrich -Kremp -Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Klopstockweg 1  1 2 2 Magdeburger Tor": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Porschestr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Heinrichsgasse": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Klosterstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Magdeburger Tor Hof": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Poststr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 1
-  },
-  "Heinrichsplatz": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Knappensteig": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Marienstr. 1  1 1 3 Pottkuhlenweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Henkestr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Kohlenweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Marientaler Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Prenzlauer  Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Herderplatz": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Kon. -Adenauer -Platz": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Markt": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Privatstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 1
-  },
-  "Herderstraße": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Königsberger Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Maschweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Raabestr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Hermann -Löns - Weg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Kontrollstelle ehem.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Max -Planck -Weg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Reichenberger Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Hinter  der Ziegelei": {
-    "A": 1,
-    "B": 1,
-    "C": 3,
-    "D": 2
-  },
-  "Kornstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Max -Reger -Weg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Rembrandtstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Hirschberger Str. 1  1 2 2 Kramstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Medicusstraße": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Richard -Wagner -Platz": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Holbeinweg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Krumme Gasse": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Meibomstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Richard -Wagner -Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Holzberg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Kurzer Kamp": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Memelstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Ritterstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Im Bohnenkampe": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Kybitzstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Mönchsweg 1 1  2 4 Rosenwinkel": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "In der Kreuzbreite": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Landgrabentrift": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Mörikestr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Rosmarinstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "In der Meerbreite": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 1
-  },
-  "Langer Kamp": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Mosheimstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Roßstr. 1 1 2  4 Industriestr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Langer Steinweg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Mozartstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Rostocker Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "J. -Seb. -Bach - Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Langer Wall": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Mühlgraben": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Roter Torweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Jahnstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Leibnizstr. 1  1 1 1 Naumburger Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Rundweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Jenaer Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Leipziger Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Neißestr. 1 1 2  2 Runstedter Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Johannesstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 1
-  },
-  "Lenauweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Neumärker Straße": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Saalfelder  Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Joseph -Haydn -Weg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Lessingplatz": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Nonnenstieg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Saarstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Juliusplatz": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Lessingstraße": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Nordertor": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Sandbreite": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Juliusstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Leuckartstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Nordstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Schä ferkamp": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Junkerweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Liegnitzer Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Oderring": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Schellingweg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Jürgenbreite": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Lindenplatz": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Ostendorf": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Schild": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Kaisergarten": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Lindenstraße": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Papenberg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Schillerstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Kants tr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "ln der Gehrenbreite": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Parkstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 1
-  },
-  "Schmiedegasse": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Kastanienweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Lortzingstr. 1  1 2 2 Pastorenweg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Schöninger Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 1
-  },
-  "Schopenhauerweg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Virchowweg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Barmke": {
-    "A": 3,
-    "B": 3,
-    "C": 3,
-    "D": 1
-  },
-  "Schubertweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Vitréstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Büddenstedt": {
-    "A": 2,
-    "B": 2,
-    "C": 4,
-    "D": 2
-  },
-  "Schuhstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Voigtweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Emmerstedt": {
-    "A": 3,
-    "B": 3,
-    "C": 3,
-    "D": 7
-  },
-  "Schulstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "von - Guericke -Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Gewerbegeb. Neue Breite": {
-    "A": 1,
-    "B": 1,
-    "C": 3,
-    "D": 6
-  },
-  "Schumannweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Vorsfelder Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Hohnsleben": {
-    "A": 2,
-    "B": 2,
-    "C": 4,
-    "D": 5
-  },
-  "Schützenwall": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "W. -v.-Siemens -Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Offleben": {
-    "A": 2,
-    "B": 2,
-    "C": 4,
-    "D": 5
-  },
-  "Schwalbenbreite": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Wachtkamp": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Reinsdorf": {
-    "A": 2,
-    "B": 2,
-    "C": 4,
-    "D": 5
-  },
-  "Schweidnitzer Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Walbecker Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Windmühlenberg": {
-    "A": 1,
-    "B": 1,
-    "C": 3,
-    "D": 6
-  },
-  "Schweriner Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Waldenburger Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Sonnenweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Wallgasse": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Spitzwegstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Wallhof": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "St. -Barbara -Weg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Wallplatz": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Steigerweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Walpurgiskirchhof": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Stendaler Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Walpurgisstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Stettiner Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Weichselstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Stobenstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Weimarer Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Stollenweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Weinbergstr. 1  1 2 2 Stolzengasse": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Wilhelm -Busch -Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Stralsunder Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Wilhelmstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 1
-  },
-  "Streplingerode": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Willy -Brandt -Ring": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Südertor": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Wismarer Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Südstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 1
-  },
-  "Wittenberger Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Tangermühlenweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Wohldamm": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "Teichstr.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Ziegenmarkt": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 4
-  },
-  "Th. - Storm -Weg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Zwickauer Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
-  },
-  "Thomas -Mann -Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Tiefetal": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 1
-  },
-  "Tilsiter  Str.": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 2
-  },
-  "Triftweg": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 3
-  },
-  "T urmweg": {
-    "A": 1,
-    "B": 1,
-    "C": 2,
-    "D": 4
+[
+  {
+    "date": "2026-01-03",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-01-03",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-01-03",
+    "type": "D",
+    "zone": 5
+  },
+  {
+    "date": "2026-01-05",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-01-07",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-01-07",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-01-07",
+    "type": "D",
+    "zone": 3
+  },
+  {
+    "date": "2026-01-09",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-01-12",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-01-12",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-01-14",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-01-14",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-01-14",
+    "type": "D",
+    "zone": 3
+  },
+  {
+    "date": "2026-01-16",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-01-16",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-01-19",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-01-19",
+    "type": "D",
+    "zone": 7
+  },
+  {
+    "date": "2026-01-21",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-01-21",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-01-21",
+    "type": "D",
+    "zone": 1
+  },
+  {
+    "date": "2026-01-23",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-01-26",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-01-26",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-01-27",
+    "type": "D",
+    "zone": 6
+  },
+  {
+    "date": "2026-01-28",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-01-28",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-01-28",
+    "type": "D",
+    "zone": 5
+  },
+  {
+    "date": "2026-01-30",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-01-30",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-01-30",
+    "type": "D",
+    "zone": 5
+  },
+  {
+    "date": "2026-02-02",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-02-04",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-02-04",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-02-04",
+    "type": "D",
+    "zone": 3
+  },
+  {
+    "date": "2026-02-06",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-02-09",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-02-09",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-02-11",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-02-11",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-02-11",
+    "type": "D",
+    "zone": 4
+  },
+  {
+    "date": "2026-02-13",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-02-13",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-02-16",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-02-16",
+    "type": "D",
+    "zone": 7
+  },
+  {
+    "date": "2026-02-18",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-02-18",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-02-18",
+    "type": "D",
+    "zone": 1
+  },
+  {
+    "date": "2026-02-20",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-02-23",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-02-23",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-02-24",
+    "type": "D",
+    "zone": 6
+  },
+  {
+    "date": "2026-02-25",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-02-25",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-02-25",
+    "type": "D",
+    "zone": 2
+  },
+  {
+    "date": "2026-02-27",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-02-27",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-02-27",
+    "type": "D",
+    "zone": 5
+  },
+  {
+    "date": "2026-03-02",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-03-04",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-03-04",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-03-04",
+    "type": "D",
+    "zone": 3
+  },
+  {
+    "date": "2026-03-06",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-03-09",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-03-09",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-03-11",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-03-11",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-03-11",
+    "type": "D",
+    "zone": 4
+  },
+  {
+    "date": "2026-03-13",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-03-13",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-03-16",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-03-16",
+    "type": "D",
+    "zone": 7
+  },
+  {
+    "date": "2026-03-18",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-03-18",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-03-18",
+    "type": "D",
+    "zone": 1
+  },
+  {
+    "date": "2026-03-20",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-03-23",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-03-23",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-03-24",
+    "type": "D",
+    "zone": 6
+  },
+  {
+    "date": "2026-03-25",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-03-25",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-03-25",
+    "type": "D",
+    "zone": 2
+  },
+  {
+    "date": "2026-03-27",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-03-27",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-03-27",
+    "type": "D",
+    "zone": 5
+  },
+  {
+    "date": "2026-03-28",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-03-31",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-03-31",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-03-31",
+    "type": "D",
+    "zone": 3
+  },
+  {
+    "date": "2026-04-02",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-04-07",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-04-07",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-04-09",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-04-09",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-04-09",
+    "type": "D",
+    "zone": 4
+  },
+  {
+    "date": "2026-04-11",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-04-11",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-04-13",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-04-13",
+    "type": "D",
+    "zone": 7
+  },
+  {
+    "date": "2026-04-15",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-04-15",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-04-15",
+    "type": "D",
+    "zone": 1
+  },
+  {
+    "date": "2026-04-17",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-04-20",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-04-20",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-04-21",
+    "type": "D",
+    "zone": 6
+  },
+  {
+    "date": "2026-04-22",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-04-22",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-04-22",
+    "type": "D",
+    "zone": 2
+  },
+  {
+    "date": "2026-04-24",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-04-24",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-04-24",
+    "type": "D",
+    "zone": 5
+  },
+  {
+    "date": "2026-04-27",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-04-29",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-04-29",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-04-29",
+    "type": "D",
+    "zone": 3
+  },
+  {
+    "date": "2026-05-02",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-05-04",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-05-04",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-05-06",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-05-06",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-05-06",
+    "type": "D",
+    "zone": 4
+  },
+  {
+    "date": "2026-05-08",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-05-08",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-05-11",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-05-11",
+    "type": "D",
+    "zone": 7
+  },
+  {
+    "date": "2026-05-13",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-05-13",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-05-13",
+    "type": "D",
+    "zone": 1
+  },
+  {
+    "date": "2026-05-16",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-05-18",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-05-18",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-05-19",
+    "type": "D",
+    "zone": 6
+  },
+  {
+    "date": "2026-05-20",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-05-20",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-05-20",
+    "type": "D",
+    "zone": 2
+  },
+  {
+    "date": "2026-05-22",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-05-22",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-05-22",
+    "type": "D",
+    "zone": 5
+  },
+  {
+    "date": "2026-05-26",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-05-28",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-05-28",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-05-28",
+    "type": "D",
+    "zone": 3
+  },
+  {
+    "date": "2026-05-30",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-06-01",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-06-01",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-06-03",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-06-03",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-06-03",
+    "type": "D",
+    "zone": 4
+  },
+  {
+    "date": "2026-06-05",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-06-05",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-06-08",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-06-08",
+    "type": "D",
+    "zone": 7
+  },
+  {
+    "date": "2026-06-10",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-06-10",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-06-10",
+    "type": "D",
+    "zone": 1
+  },
+  {
+    "date": "2026-06-12",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-06-15",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-06-15",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-06-16",
+    "type": "D",
+    "zone": 6
+  },
+  {
+    "date": "2026-06-17",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-06-17",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-06-17",
+    "type": "D",
+    "zone": 2
+  },
+  {
+    "date": "2026-06-19",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-06-19",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-06-19",
+    "type": "D",
+    "zone": 5
+  },
+  {
+    "date": "2026-06-22",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-06-24",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-06-24",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-06-24",
+    "type": "D",
+    "zone": 3
+  },
+  {
+    "date": "2026-06-26",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-06-29",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-06-29",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-07-01",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-07-01",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-07-01",
+    "type": "D",
+    "zone": 4
+  },
+  {
+    "date": "2026-07-03",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-07-03",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-07-06",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-07-06",
+    "type": "D",
+    "zone": 7
+  },
+  {
+    "date": "2026-07-08",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-07-08",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-07-08",
+    "type": "D",
+    "zone": 1
+  },
+  {
+    "date": "2026-07-10",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-07-13",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-07-13",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-07-14",
+    "type": "D",
+    "zone": 6
+  },
+  {
+    "date": "2026-07-15",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-07-15",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-07-15",
+    "type": "D",
+    "zone": 2
+  },
+  {
+    "date": "2026-07-17",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-07-17",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-07-17",
+    "type": "D",
+    "zone": 5
+  },
+  {
+    "date": "2026-07-20",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-07-22",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-07-22",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-07-22",
+    "type": "D",
+    "zone": 3
+  },
+  {
+    "date": "2026-07-24",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-07-27",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-07-27",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-07-29",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-07-29",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-07-29",
+    "type": "D",
+    "zone": 4
+  },
+  {
+    "date": "2026-07-31",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-07-31",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-08-03",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-08-03",
+    "type": "D",
+    "zone": 7
+  },
+  {
+    "date": "2026-08-05",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-08-05",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-08-05",
+    "type": "D",
+    "zone": 1
+  },
+  {
+    "date": "2026-08-07",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-08-10",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-08-10",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-08-11",
+    "type": "D",
+    "zone": 6
+  },
+  {
+    "date": "2026-08-12",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-08-12",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-08-12",
+    "type": "D",
+    "zone": 2
+  },
+  {
+    "date": "2026-08-14",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-08-14",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-08-14",
+    "type": "D",
+    "zone": 5
+  },
+  {
+    "date": "2026-08-17",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-08-19",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-08-19",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-08-19",
+    "type": "D",
+    "zone": 3
+  },
+  {
+    "date": "2026-08-21",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-08-24",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-08-24",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-08-26",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-08-26",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-08-26",
+    "type": "D",
+    "zone": 4
+  },
+  {
+    "date": "2026-08-28",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-08-28",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-08-31",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-08-31",
+    "type": "D",
+    "zone": 7
+  },
+  {
+    "date": "2026-09-02",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-09-02",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-09-02",
+    "type": "D",
+    "zone": 1
+  },
+  {
+    "date": "2026-09-04",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-09-07",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-09-07",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-09-08",
+    "type": "D",
+    "zone": 6
+  },
+  {
+    "date": "2026-09-09",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-09-09",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-09-09",
+    "type": "D",
+    "zone": 2
+  },
+  {
+    "date": "2026-09-11",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-09-11",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-09-11",
+    "type": "D",
+    "zone": 5
+  },
+  {
+    "date": "2026-09-14",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-09-16",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-09-16",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-09-16",
+    "type": "D",
+    "zone": 3
+  },
+  {
+    "date": "2026-09-18",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-09-21",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-09-21",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-09-23",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-09-23",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-09-23",
+    "type": "D",
+    "zone": 4
+  },
+  {
+    "date": "2026-09-25",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-09-25",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-09-28",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-09-28",
+    "type": "D",
+    "zone": 7
+  },
+  {
+    "date": "2026-09-30",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-09-30",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-09-30",
+    "type": "D",
+    "zone": 1
+  },
+  {
+    "date": "2026-10-02",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-10-05",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-10-05",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-10-06",
+    "type": "D",
+    "zone": 6
+  },
+  {
+    "date": "2026-10-07",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-10-07",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-10-07",
+    "type": "D",
+    "zone": 2
+  },
+  {
+    "date": "2026-10-09",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-10-09",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-10-09",
+    "type": "D",
+    "zone": 5
+  },
+  {
+    "date": "2026-10-12",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-10-14",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-10-14",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-10-14",
+    "type": "D",
+    "zone": 3
+  },
+  {
+    "date": "2026-10-16",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-10-19",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-10-19",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-10-21",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-10-21",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-10-21",
+    "type": "D",
+    "zone": 4
+  },
+  {
+    "date": "2026-10-23",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-10-23",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-10-26",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-10-26",
+    "type": "D",
+    "zone": 7
+  },
+  {
+    "date": "2026-10-28",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-10-28",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-10-28",
+    "type": "D",
+    "zone": 1
+  },
+  {
+    "date": "2026-10-30",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-11-02",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-11-02",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-11-03",
+    "type": "D",
+    "zone": 6
+  },
+  {
+    "date": "2026-11-04",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-11-04",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-11-04",
+    "type": "D",
+    "zone": 2
+  },
+  {
+    "date": "2026-11-06",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-11-06",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-11-06",
+    "type": "D",
+    "zone": 5
+  },
+  {
+    "date": "2026-11-09",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-11-11",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-11-11",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-11-11",
+    "type": "D",
+    "zone": 3
+  },
+  {
+    "date": "2026-11-13",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-11-16",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-11-16",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-11-18",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-11-18",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-11-18",
+    "type": "D",
+    "zone": 4
+  },
+  {
+    "date": "2026-11-20",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-11-20",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-11-23",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-11-23",
+    "type": "D",
+    "zone": 7
+  },
+  {
+    "date": "2026-11-25",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-11-25",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-11-25",
+    "type": "D",
+    "zone": 1
+  },
+  {
+    "date": "2026-11-27",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-11-30",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-11-30",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-12-01",
+    "type": "D",
+    "zone": 6
+  },
+  {
+    "date": "2026-12-02",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-12-02",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-12-02",
+    "type": "D",
+    "zone": 2
+  },
+  {
+    "date": "2026-12-04",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-12-04",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-12-04",
+    "type": "D",
+    "zone": 5
+  },
+  {
+    "date": "2026-12-07",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-12-09",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-12-09",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-12-09",
+    "type": "D",
+    "zone": 3
+  },
+  {
+    "date": "2026-12-11",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-12-14",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-12-14",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-12-16",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-12-16",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-12-16",
+    "type": "D",
+    "zone": 4
+  },
+  {
+    "date": "2026-12-18",
+    "type": "B",
+    "zone": 2
+  },
+  {
+    "date": "2026-12-18",
+    "type": "C",
+    "zone": 4
+  },
+  {
+    "date": "2026-12-19",
+    "type": "A",
+    "zone": 3
+  },
+  {
+    "date": "2026-12-19",
+    "type": "D",
+    "zone": 7
+  },
+  {
+    "date": "2026-12-22",
+    "type": "A",
+    "zone": 1
+  },
+  {
+    "date": "2026-12-22",
+    "type": "C",
+    "zone": 1
+  },
+  {
+    "date": "2026-12-22",
+    "type": "D",
+    "zone": 1
+  },
+  {
+    "date": "2026-12-24",
+    "type": "A",
+    "zone": 2
+  },
+  {
+    "date": "2026-12-28",
+    "type": "B",
+    "zone": 3
+  },
+  {
+    "date": "2026-12-28",
+    "type": "C",
+    "zone": 3
+  },
+  {
+    "date": "2026-12-29",
+    "type": "D",
+    "zone": 6
+  },
+  {
+    "date": "2026-12-30",
+    "type": "B",
+    "zone": 1
+  },
+  {
+    "date": "2026-12-30",
+    "type": "C",
+    "zone": 2
+  },
+  {
+    "date": "2026-12-30",
+    "type": "D",
+    "zone": 2
   }
-}
+]
